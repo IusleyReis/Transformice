@@ -1,0 +1,152 @@
+body {
+    background-color: black;
+    padding: 300px;
+    flex: auto;
+}
+.cabecalho__pai__filho__total {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    gap: 530px;
+    position: relative;
+    width: 795px;
+}
+
+.cabecalho__pai__filho__titulo {
+    display: flex;
+    gap: 10px;
+}
+
+.cabecalho__pai__filho__titulo p {
+    font-size: 15px;
+}
+
+.cabecalho__pai__filho__titulo img {
+    height: 60px;
+    width: 60px;
+}
+
+.cabecalho__abaixo__total {
+    display: flex;
+    background-color: #432b1a;
+    align-items: center;
+    gap: 60px;
+    width: 792px;
+}
+
+.cabecalho__abaixo__total__esquerda {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    white-space: nowrap;
+}
+
+.cabecalho__abaixo__total__esquerda__imagem {
+    margin-left: 15px;
+    height: 40px;
+}
+
+.cabecalho__abaixo__total__esquerda__imagem2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 20px;
+}
+
+
+.cabecalho__abaixo__total__esquerda__texto1 {
+    color: yellow;
+}
+
+.cabecalho__abaixo__total__esquerda__texto2 {
+    color: #818bab;
+}
+
+.cabecalho__abaixo__total__esquerda__texto3 {
+    color: white;
+}
+
+.cabecalho__abaixo__total__esquerda__texto4 {
+    color: #3b6356;
+}
+
+.cabecalho__abaixo__total__esquerda__texto5 {
+    color: #63a8d0;
+}
+.meio__pai {
+    height: 100%;
+    width: 100%;
+}
+
+.embaixo {
+    background-color: #432b1a;
+    width: 792px;
+}
+
+.embaixo__pai__total {
+    display: flex;
+}
+
+
+.embaixo__pai__caixa textarea {
+    border: none;
+    background-color: transparent;
+    resize: none;
+}
+
+.embaixo__digitar__digitado textarea {
+    resize: none;
+    overflow: hidden;
+    background-color: #21130d;
+    color: #3b7768
+}
+
+
+.embaixo__pai__direita__embaixo__embaixo {
+    display: flex;
+    background-color: #cfc291;
+    height: 85px;
+    width: 209px;
+    font-size: 15px;
+    color: #988661;
+    gap: 5px;
+    margin-top: 0;
+}
+
+.embaixo__pai__direita__embaixo__embaixo p {
+    font-size: 20px;
+    color: #818bab ;
+}
+
+.embaixo__pai__baixado__ratoemocao {
+    display: flex;
+}
+
+.embaixo__pai__direita__imagempena img {
+    height: 60px;
+    width: 20px;
+
+}
+
+.embaixo__pai__direita__imagens img {
+    width: 120px;
+    height: 60px;
+}
+
+.embaixo__pai__direita__cima img {
+    height: 60px;
+}
+
+.embaixo__pai__baixado__embaixo img {
+    width: 209px;
+    max-height: 50px;
+}
+
+.embaixo__pai__menu {
+    margin-top: 0;
+}
+
+.embaixo__pai__menu p, h1 {
+    margin-top: 5px;
+    margin-left: 5px;
+}
